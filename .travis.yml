@@ -12,8 +12,6 @@ notifications:
     on_success: never # default: change
     on_failure: always # default: always
 
-script: "mvn cobertura:cobertura"
-
 env:
   global:
   - CODECOV_TOKEN="42510191-cf4d-4c3d-8588-b763a12c6599"
