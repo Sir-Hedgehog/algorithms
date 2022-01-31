@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/Sir-Hedgehog/design_patterns.svg?branch=main)](https://travis-ci.com/Sir-Hedgehog/algorithms)
-[![codecov](https://codecov.io/gh/Sir-Hedgehog/algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/Sir-Hedgehog/algorithms)
+[![codecov](https://codecov.io/gh/Sir-Hedgehog/algorithms/branch/master/graph/badge.svg?token=F6lU5MxnCB)](https://codecov.io/gh/Sir-Hedgehog/algorithms)
 
 ## Algorithms
 This repository presents the basic and specific algorithms.
