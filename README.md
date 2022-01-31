@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/Sir-Hedgehog/design_patterns.svg?branch=main)](https://travis-ci.com/Sir-Hedgehog/algorithms)
 [![codecov](https://codecov.io/gh/Sir-Hedgehog/algorithms/branch/master/graph/badge.svg?token=F6lU5MxnCB)](https://codecov.io/gh/Sir-Hedgehog/algorithms)
 
-##Algorithms
+## Algorithms
 This repository presents the basic and specific algorithms.
 
 ![Scheme](https://media.proglib.io/wp-uploads/2019/02/algorithms_landlord-FINAL.png)
