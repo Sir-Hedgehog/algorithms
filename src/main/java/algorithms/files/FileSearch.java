@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @author Sir-Hedgehog (mailto:quaresma_08@mail.ru)
- * @version 1.0
+ * @version 1.1
  * @since 01.02.2022
  */
 public class FileSearch {
