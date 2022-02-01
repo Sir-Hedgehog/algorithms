@@ -2,8 +2,8 @@ package algorithms.max;
 
 /**
  * @author Sir-Hedgehog (mailto:quaresma_08@mail.ru)
- * @version 1.0
- * @since 31.01.2022
+ * @version 1.1
+ * @since 01.02.2022
  */
 public class ArrayMax {
 
@@ -20,11 +20,8 @@ public class ArrayMax {
             if (array[current] > value) {
                 value = array[current];
             }
-            if (array[current] == array[array.length - 1] && value == array[current]) {
-                return pattern + "absent";
-            }
         }
 
-        return "The max value is " + value;
+        return pattern + value;
     }
 }
